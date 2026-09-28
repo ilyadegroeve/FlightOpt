@@ -1,0 +1,6 @@
+shortest route without subroutes:
+['VUB', 'Hôpital Etterbeek-Ixelles', 'Clinique Saint-Jean', 'Hôpitaux iris Ziekenhuizen', 'Edith Cavell', "Cliniques de l'Europe", 'Epsylon ASBL', 'VUB']
+
+shortest route with 2 subroutes:
+
+Best subroutes: [['VUB', 'Hôpital Etterbeek-Ixelles', 'Hôpitaux iris Ziekenhuizen', 'Clinique Saint-Jean', 'VUB'], ['VUB', 'Edith Cavell', "Cliniques de l'Europe", 'Epsylon ASBL', 'VUB']]
